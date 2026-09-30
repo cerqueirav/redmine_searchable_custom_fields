@@ -1,0 +1,12 @@
+fr:
+  scf_search: "Rechercher…"
+  scf_waiting_parent: "Sélectionnez d'abord le champ parent"
+  scf_no_options: "Aucune option pour la sélection actuelle"
+  scf_no_match: "Aucune option trouvée"
+  scf_remove: "Retirer"
+  scf_setting_min_options: "Nombre minimal d'options"
+  scf_setting_min_options_info: "La zone de recherche n'est ajoutée qu'aux listes comportant au moins ce nombre d'options."
+  scf_setting_click_to_toggle: "Clic pour cocher"
+  scf_setting_click_to_toggle_info: "Dans les listes à valeurs multiples, un simple clic sélectionne/désélectionne une option (sans Ctrl)."
+  scf_setting_keep_selection: "Conserver les sélections valides"
+  scf_setting_keep_selection_info: "Depending Custom Fields : lorsque le champ parent change, conserve les valeurs du champ enfant encore autorisées au lieu de les effacer."

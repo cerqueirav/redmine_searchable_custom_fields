@@ -1,0 +1,12 @@
+en:
+  scf_search: "Search…"
+  scf_waiting_parent: "Select the parent field first"
+  scf_no_options: "No options for the current selection"
+  scf_no_match: "No matching options"
+  scf_remove: "Remove"
+  scf_setting_min_options: "Minimum number of options"
+  scf_setting_min_options_info: "The search box is only added to lists with at least this many options."
+  scf_setting_click_to_toggle: "Click to toggle"
+  scf_setting_click_to_toggle_info: "In multiple-value lists, a single click selects/deselects an option (no Ctrl needed)."
+  scf_setting_keep_selection: "Keep valid selections"
+  scf_setting_keep_selection_info: "Depending Custom Fields: when the parent field changes, keep the child values that are still allowed instead of clearing them."

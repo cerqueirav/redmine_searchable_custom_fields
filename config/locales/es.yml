@@ -1,0 +1,12 @@
+es:
+  scf_search: "Buscar…"
+  scf_waiting_parent: "Seleccione primero el campo anterior"
+  scf_no_options: "No hay opciones para la selección actual"
+  scf_no_match: "No se encontraron opciones"
+  scf_remove: "Quitar"
+  scf_setting_min_options: "Número mínimo de opciones"
+  scf_setting_min_options_info: "El cuadro de búsqueda solo se añade a listas con al menos esta cantidad de opciones."
+  scf_setting_click_to_toggle: "Clic para marcar"
+  scf_setting_click_to_toggle_info: "En listas de valores múltiples, un solo clic marca/desmarca una opción (sin necesidad de Ctrl)."
+  scf_setting_keep_selection: "Mantener selecciones válidas"
+  scf_setting_keep_selection_info: "Depending Custom Fields: cuando cambia el campo padre, mantiene los valores del campo hijo que siguen permitidos en lugar de borrarlos."

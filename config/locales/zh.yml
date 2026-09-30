@@ -1,0 +1,12 @@
+zh:
+  scf_search: "搜索…"
+  scf_waiting_parent: "请先选择父字段"
+  scf_no_options: "当前选择没有可用选项"
+  scf_no_match: "没有匹配的选项"
+  scf_remove: "移除"
+  scf_setting_min_options: "最少选项数"
+  scf_setting_min_options_info: "仅在选项数量不少于该值的列表中添加搜索框。"
+  scf_setting_click_to_toggle: "单击选择"
+  scf_setting_click_to_toggle_info: "在多值列表中，单击即可选择/取消选择选项（无需按 Ctrl）。"
+  scf_setting_keep_selection: "保留有效选择"
+  scf_setting_keep_selection_info: "Depending Custom Fields：父字段变更时，保留子字段中仍然允许的值，而不是将其清空。"

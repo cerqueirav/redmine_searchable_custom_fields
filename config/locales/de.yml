@@ -1,0 +1,12 @@
+de:
+  scf_search: "Suchen…"
+  scf_waiting_parent: "Wählen Sie zuerst das übergeordnete Feld"
+  scf_no_options: "Keine Optionen für die aktuelle Auswahl"
+  scf_no_match: "Keine passenden Optionen"
+  scf_remove: "Entfernen"
+  scf_setting_min_options: "Mindestanzahl an Optionen"
+  scf_setting_min_options_info: "Das Suchfeld wird nur Listen mit mindestens dieser Anzahl an Optionen hinzugefügt."
+  scf_setting_click_to_toggle: "Klick zum Auswählen"
+  scf_setting_click_to_toggle_info: "In Listen mit Mehrfachwerten wählt ein einfacher Klick eine Option aus bzw. ab (ohne Strg)."
+  scf_setting_keep_selection: "Gültige Auswahl beibehalten"
+  scf_setting_keep_selection_info: "Depending Custom Fields: Wenn sich das übergeordnete Feld ändert, bleiben die weiterhin erlaubten Werte des untergeordneten Felds erhalten, statt gelöscht zu werden."

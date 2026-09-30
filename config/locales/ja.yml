@@ -1,0 +1,12 @@
+ja:
+  scf_search: "検索…"
+  scf_waiting_parent: "先に親フィールドを選択してください"
+  scf_no_options: "現在の選択に対応する選択肢はありません"
+  scf_no_match: "一致する選択肢はありません"
+  scf_remove: "削除"
+  scf_setting_min_options: "選択肢の最小数"
+  scf_setting_min_options_info: "検索ボックスは、選択肢がこの数以上あるリストにのみ追加されます。"
+  scf_setting_click_to_toggle: "クリックで選択"
+  scf_setting_click_to_toggle_info: "複数値のリストで、1回のクリックで選択/選択解除します（Ctrl不要）。"
+  scf_setting_keep_selection: "有効な選択を維持"
+  scf_setting_keep_selection_info: "Depending Custom Fields: 親フィールドが変更されたとき、引き続き許可される子フィールドの値を消去せずに維持します。"

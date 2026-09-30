@@ -1,0 +1,18 @@
+<%# Redmine Searchable Custom Fields - Copyright (C) 2026 Victor Cerqueira - GPL v3 or later %>
+<p>
+  <%= label_tag 'settings[min_options]', l(:scf_setting_min_options) %>
+  <%= number_field_tag 'settings[min_options]', @settings['min_options'], min: 2, max: 1000 %>
+  <em class="info"><%= l(:scf_setting_min_options_info) %></em>
+</p>
+<p>
+  <%= label_tag 'settings[click_to_toggle]', l(:scf_setting_click_to_toggle) %>
+  <%= hidden_field_tag 'settings[click_to_toggle]', '0', id: nil %>
+  <%= check_box_tag 'settings[click_to_toggle]', '1', @settings['click_to_toggle'].to_s == '1' %>
+  <em class="info"><%= l(:scf_setting_click_to_toggle_info) %></em>
+</p>
+<p>
+  <%= label_tag 'settings[keep_selection]', l(:scf_setting_keep_selection) %>
+  <%= hidden_field_tag 'settings[keep_selection]', '0', id: nil %>
+  <%= check_box_tag 'settings[keep_selection]', '1', @settings.fetch('keep_selection', '1').to_s == '1' %>
+  <em class="info"><%= l(:scf_setting_keep_selection_info) %></em>
+</p>

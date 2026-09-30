@@ -1,0 +1,35 @@
+/* Redmine Searchable Custom Fields - Copyright (C) 2026 Victor Cerqueira - GPL v3 or later */
+
+input.scf-search[type=search] {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 360px;
+  margin: 0 0 4px;
+  padding: 4px 8px 4px 28px;
+  border: 1px solid #d5d9e0;
+  border-radius: 6px;
+  font-size: 13px;
+  background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%239ca3af' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5'/%3E%3C/svg%3E") no-repeat 8px 50%;
+}
+input.scf-search[type=search]:disabled { cursor: not-allowed; background-color: #f8f9fb; }
+input.scf-search.scf-notice::placeholder { color: #b45309; opacity: 1; }
+.check_box_group.scf-group.scf-no-options { display: none; }
+.tabular p input.scf-search { margin-left: 0; }
+
+select.scf-select[multiple] { min-width: 240px; max-width: 360px; width: 100%; min-height: 9em; }
+.check_box_group.scf-group { max-height: 16em; overflow-y: auto; max-width: 360px; }
+
+.scf-empty { font-size: 12px; color: #9ca3af; margin: 2px 0; }
+
+.scf-chips { display: flex; flex-wrap: wrap; gap: 4px; margin: 6px 0 0; max-width: 360px; }
+.scf-chip {
+  display: inline-flex; align-items: center; gap: 2px;
+  padding: 1px 4px 1px 8px; border-radius: 999px;
+  background: #efedff; color: #4338ca; font-size: 12px; line-height: 1.6;
+}
+.scf-chip-x {
+  border: 0; background: transparent; color: inherit; cursor: pointer;
+  font-size: 14px; line-height: 1; padding: 0 3px; border-radius: 50%;
+}
+.scf-chip-x:hover { background: rgba(67, 56, 202, .15); }

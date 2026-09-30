@@ -1,0 +1,12 @@
+ru:
+  scf_search: "Поиск…"
+  scf_waiting_parent: "Сначала выберите родительское поле"
+  scf_no_options: "Нет вариантов для текущего выбора"
+  scf_no_match: "Ничего не найдено"
+  scf_remove: "Удалить"
+  scf_setting_min_options: "Минимальное количество вариантов"
+  scf_setting_min_options_info: "Поле поиска добавляется только к спискам, в которых не меньше указанного количества вариантов."
+  scf_setting_click_to_toggle: "Выбор щелчком"
+  scf_setting_click_to_toggle_info: "В списках с несколькими значениями один щелчок выбирает или снимает выбор (без Ctrl)."
+  scf_setting_keep_selection: "Сохранять допустимый выбор"
+  scf_setting_keep_selection_info: "Depending Custom Fields: при изменении родительского поля сохраняются значения дочернего поля, которые по-прежнему допустимы, вместо их очистки."
