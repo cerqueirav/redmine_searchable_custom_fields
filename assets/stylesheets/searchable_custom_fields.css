@@ -1,4 +1,5 @@
 /* Redmine Searchable Custom Fields - Copyright (C) 2026 Victor Cerqueira - GPL v3 or later */
+option.scf-hidden, .check_box_group label.scf-hidden { display: none !important; }
 
 input.scf-search[type=search] {
   display: block;
